@@ -6,14 +6,13 @@ Project name and description
 
 /* The universal selector */
 
-* {
-
+* {margin: 0; padding: 0;
 }
 
 /* Body attributes here */
 
-body {margin: 0; padding: 0;}
-h1 {border: 1px  dashed black; margin:9px; padding:5px: }
-p { border: 1px dashed black;margin:9px; padding:5px:}
-main { border: 1px solid black;margin:20px; padding:2:}
-body { border: 1px dashed black;margin:5; padding:15px:}
+
+h1 {border: 1px  dashed black; margin:9px; padding:5px; }
+p { border: 1px dashed black;margin:9px; padding:5px;}
+main { border: 1px solid black;margin:20px; padding:2;}
+body { border: 1px dashed black;margin:5; padding:15px;}
